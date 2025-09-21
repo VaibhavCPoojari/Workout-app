@@ -23,4 +23,6 @@ mongoose.connect(process.env.MONGO_URI)
         console.log(error);
     });
 
+//now everything is set up
+
 

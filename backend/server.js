@@ -24,5 +24,9 @@ mongoose.connect(process.env.MONGO_URI)
     });
 
 //now everything is set up
+//export default app; // Export the app for testing purposes
 
+
+console.log("hello");
+console.log("hello");
 
